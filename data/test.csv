@@ -1,0 +1,11 @@
+text,pollution_category,source_category,pollutant,location,severity
+"A chemical factory in Pune emitted sulfur dioxide causing air pollution in the region.",Air Pollution,Industrial Plant,sulfur dioxide,Pune,High
+"Raw sewage discharged into Mutha river caused water pollution in Pune city.",Water Pollution,Sewage Discharge,sewage,Pune,High
+"Construction activity in Noida caused severe dust and particulate matter emissions.",Air Pollution,Construction Site,particulate matter,Noida,Moderate
+"Pesticide accumulation in farm soil in Punjab resulted in soil pollution.",Soil Pollution,Agricultural Activity,pesticides,Punjab,Moderate
+"Nighttime truck traffic generated loud noise pollution near Delhi residential zones.",Noise Pollution,Vehicular Emissions,traffic noise,Delhi,Low
+"Oil refinery flaring released methane into atmospheric air near Jamnagar.",Air Pollution,Refinery,methane,Jamnagar,Moderate
+"Industrial waste dumping near riverbank caused heavy metal soil pollution in Durgapur.",Soil Pollution,Industrial Plant,heavy metals,Durgapur,High
+"Mining operations created thick dust smog and PM10 pollution in Bellary.",Air Pollution,Mining Operation,PM10,Bellary,High
+"Untreated factory wastewater polluted agricultural land near Tirupur.",Water Pollution,Industrial Plant,wastewater,Tirupur,High
+"Loudspeakers and industrial equipment created noise pollution in Jamshedpur.",Noise Pollution,Industrial Plant,industrial noise,Jamshedpur,Moderate

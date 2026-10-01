@@ -1,0 +1,11 @@
+text,pollution_category,source_category,pollutant,location,severity
+"Sulfur dioxide emissions from a thermal power station elevated air pollution indices in Chandrapur.",Air Pollution,Power Plant,sulfur dioxide,Chandrapur,High
+"Untreated chemical effluents discharged into the river caused fish deaths in Ankleshwar.",Water Pollution,Chemical Plant,chemical waste,Ankleshwar,Critical
+"Agricultural pesticide run-off contaminated groundwater in Bhatinda.",Soil Pollution,Agricultural Activity,pesticides,Bhatinda,Moderate
+"Heavy construction machinery created severe noise pollution in Gurgaon.",Noise Pollution,Construction Site,construction noise,Gurgaon,Moderate
+"Burning of plastic waste released toxic gases in Faridabad.",Air Pollution,Waste Burning,toxic gases,Faridabad,High
+"Sewage discharge into coastal waters polluted sea near Mangalore.",Water Pollution,Sewage Discharge,sewage,Mangalore,Moderate
+"Heavy diesel traffic increased nitrogen dioxide levels near Chennai port.",Air Pollution,Vehicular Emissions,nitrogen dioxide,Chennai,Moderate
+"Sludge dumping near industrial area polluted soil with heavy metals in Tarapur.",Soil Pollution,Industrial Plant,heavy metals,Tarapur,High
+"Compressor stations at a gas facility created persistent industrial noise in Dibrugarh.",Noise Pollution,Industrial Plant,industrial noise,Dibrugarh,Low
+"Open stubble burning degraded air quality and increased PM2.5 in Ludhiana.",Air Pollution,Agricultural Burning,PM2.5,Ludhiana,Critical

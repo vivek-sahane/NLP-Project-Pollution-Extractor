@@ -1,0 +1,41 @@
+text,pollution_category,source_category,pollutant,location,severity
+"A chemical factory near Pune released sulfur dioxide into the atmosphere, causing severe air pollution in nearby residential areas.",Air Pollution,Industrial Plant,sulfur dioxide,Pune,High
+"Emissions of nitrogen dioxide from a major fertilizer plant in Nashik triggered health warnings across the city.",Air Pollution,Industrial Plant,nitrogen dioxide,Nashik,High
+"Smoke from agricultural stubble burning in Punjab led to dangerous levels of PM2.5 in New Delhi.",Air Pollution,Agricultural Burning,PM2.5,Delhi,Critical
+"Heavy diesel exhaust from cargo trucks caused high carbon monoxide pollution along the Mumbai highway.",Air Pollution,Vehicular Emissions,carbon monoxide,Mumbai,Moderate
+"Untreated industrial effluent containing heavy metals was discharged from a textile mill into the Mula-Mutha river near Pune.",Water Pollution,Industrial Plant,heavy metals,Pune,High
+"Toxic municipal sewage overflowed into the Godavari river in Nashik, contaminating drinking water supplies.",Water Pollution,Sewage Discharge,sewage,Nashik,Critical
+"An oil spill from a chemical processing facility polluted coastal waters near Chennai.",Water Pollution,Chemical Plant,oil,Chennai,High
+"Pesticides and chemical waste leaked from an agricultural warehouse into nearby farmlands in Nagpur.",Soil Pollution,Agricultural Activity,pesticides,Nagpur,Moderate
+"Illegal dumping of industrial chemical waste created severe soil contamination near an industrial estate in Thane.",Soil Pollution,Industrial Plant,chemical waste,Thane,High
+"Excessive noise pollution from heavy machinery at a metro construction site in Bengaluru disturbed residents.",Noise Pollution,Construction Site,traffic noise,Bengaluru,Moderate
+"Loud commercial loudspeakers and night construction activities generated hazardous noise pollution in Hyderabad.",Noise Pollution,Construction Activity,construction noise,Hyderabad,Moderate
+"Thick black smoke and particulate matter were released by an unauthorized brick kiln in Solapur.",Air Pollution,Industrial Plant,particulate matter,Solapur,High
+"Continuous discharge of untreated wastewater from a paper mill contaminated local groundwater in Kolhapur.",Water Pollution,Industrial Plant,wastewater,Kolhapur,High
+"Open burning of solid municipal waste at a landfill near Ahmedabad caused hazardous smog and high PM10 levels.",Air Pollution,Waste Burning,PM10,Ahmedabad,Critical
+"Leachate carrying arsenic and heavy metals from an unlined landfill polluted surrounding soil in Jaipur.",Soil Pollution,Landfill,heavy metals,Jaipur,High
+"An explosion at a petro-chemical refinery released toxic gas clouds and high levels of sulfur dioxide near Vadodara.",Air Pollution,Refinery,sulfur dioxide,Vadodara,Critical
+"Exhaust fumes containing nitrogen dioxide and particulate matter from city buses degraded air quality in Kolkata.",Air Pollution,Vehicular Emissions,nitrogen dioxide,Kolkata,Moderate
+"Uncontrolled dust and fine particulate emissions from limestone quarrying affected nearby villages in Satna.",Air Pollution,Mining Operation,particulate matter,Satna,Moderate
+"Untreated domestic sewage released into the Yamuna river in Agra led to toxic foam formation.",Water Pollution,Sewage Discharge,sewage,Agra,Critical
+"Industrial acid runoff contaminated topsoil and agricultural land near a zinc smelter in Udaipur.",Soil Pollution,Industrial Plant,acid runoff,Udaipur,High
+"Nighttime heavy vehicle traffic produced intolerable noise levels exceeding decibel limits in Lucknow.",Noise Pollution,Vehicular Emissions,traffic noise,Lucknow,Low
+"Carbon monoxide emissions from a captive coal power plant degraded air quality in Korba.",Air Pollution,Power Plant,carbon monoxide,Korba,High
+"Discharge of toxic mercury compounds into a local creek threatened aquatic ecosystems in Vapi.",Water Pollution,Chemical Plant,mercury,Vapi,Critical
+"Excessive fertilizer runoff washed into a freshwater lake in Bhopal, triggering massive algae blooms.",Water Pollution,Agricultural Activity,fertilizers,Bhopal,Moderate
+"Severe noise pollution from pile-driving machines at a highway expansion project irritated citizens in Surat.",Noise Pollution,Construction Site,construction noise,Surat,Moderate
+"Illegal dumping of hazardous electronic waste contaminated soil with lead and cadmium in Moradabad.",Soil Pollution,Waste Burning,heavy metals,Moradabad,High
+"Flaring of natural gas at an offshore oil refinery released large volumes of methane into the atmosphere near Kochi.",Air Pollution,Refinery,methane,Kochi,Moderate
+"Sludge from a municipal wastewater facility leaked into surrounding farmland in Coimbatore.",Soil Pollution,Sewage Discharge,wastewater,Coimbatore,Moderate
+"Smoke and toxic fumes from illegal plastic waste burning created dense haze in Ghaziabad.",Air Pollution,Waste Burning,toxic gases,Ghaziabad,High
+"Industrial cooling water discharge elevated river temperatures and reduced oxygen levels in Visakhapatnam.",Water Pollution,Industrial Plant,industrial effluent,Visakhapatnam,Low
+"High concentrations of PM2.5 caused by crop residue burning were recorded across Haryana.",Air Pollution,Agricultural Burning,PM2.5,Haryana,Critical
+"Demolition activity at a commercial complex generated thick clouds of mineral dust in Noida.",Air Pollution,Construction Site,particulate matter,Noida,Moderate
+"Untreated tanning chemicals were discharged into local drainage channels in Kanpur.",Water Pollution,Industrial Plant,chemical waste,Kanpur,High
+"Vehicle traffic during peak hours caused significant ambient noise pollution near hospitals in Chandigarh.",Noise Pollution,Vehicular Emissions,traffic noise,Chandigarh,Low
+"Coal dust emissions from open-cast mining operations reduced visibility and air quality in Dhanbad.",Air Pollution,Mining Operation,particulate matter,Dhanbad,High
+"Chemical solvents spilled from a transport tank truck, contaminating soil along the highway near Bharuch.",Soil Pollution,Vehicular Emissions,chemical waste,Bharuch,High
+"Discharge of raw sewage into coastal waters forced beach closures near Goa.",Water Pollution,Sewage Discharge,sewage,Goa,Moderate
+"Excessive noise from industrial generator sets alarmed local residents in Indore.",Noise Pollution,Industrial Plant,industrial noise,Indore,Low
+"Methane gas leakage from an aging natural gas pipeline caused environmental alarm in Assam.",Air Pollution,Industrial Plant,methane,Assam,Moderate
+"Heavy metal contamination including lead was detected in soil samples near an old battery plant in Howrah.",Soil Pollution,Industrial Plant,lead,Howrah,Critical
